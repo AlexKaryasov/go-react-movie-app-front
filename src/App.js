@@ -6,6 +6,8 @@ import Home from './components/Home';
 import Categories from './components/Categories';
 import OneMovie from './components/OneMovie';
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 export default function App() {
   return (
     <Router>
